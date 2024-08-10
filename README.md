@@ -4,6 +4,9 @@
 📕 I’m currently learning Python for cybersecurity
 
 🎮 Fun fact: I like video games
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: www.linkedin.com/in/lerner-corrales-07780171
 <!--
 **lerner19/lerner19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
