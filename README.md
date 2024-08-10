@@ -1,7 +1,9 @@
 ## Hi there 👋
-🔭 I’m currently working on Logical Access Control
+👨🏽‍💻 I’m currently working on Logical Access Control
 
-🌱 I’m currently learning Python
+📕 I’m currently learning Python
+
+🎮 Fun fact: I like video games
 <!--
 **lerner19/lerner19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
