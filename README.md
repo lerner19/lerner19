@@ -1,7 +1,7 @@
 ## Hi there 👋
 👨🏽‍💻 I’m currently working on Logical Access Control
 
-📕 I’m currently learning Python
+📕 I’m currently learning Python for cybersecurity
 
 🎮 Fun fact: I like video games
 <!--
